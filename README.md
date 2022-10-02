@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aathish-max
-- 👀 I’m interested in Penetration Tester with passion for aligning security architecture
+- 👀 I’m Student with passion for aligning security architecture
      plans and processes with security standards and business goals. Extensive experience developing and testing security framework for
      cloud-based software. Versed in robust network defense strategies. Reliable employee seeking Cyber Analyst Internship position.
      Offering excellent communication and good judgment. Enthusiastic student eager to contribute to team success through hard work,
